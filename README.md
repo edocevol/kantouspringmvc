@@ -3,15 +3,15 @@
 原著链接：http://item.jd.com/11807414.html
 
 现有章节:
-1. [第14章 ViewResolver][1]
-2. [第15章 RequestToViewNameTranslator][2]
-3. [第16章 HandlerExceptionResolver][3]
-4. [第17章 MultipartResolver][4]
-5. [第18章 LocaleResolver][5]
-6. [第19章 ThemeResolver][6]
-7. [第20章 FlashMapManager][7]
-8. [第21章 总结][8]
-9. [第22章 异步请求][9]
+- [第14章 ViewResolver][1]
+- [第15章 RequestToViewNameTranslator][2]
+- [第16章 HandlerExceptionResolver][3]
+- [第17章 MultipartResolver][4]
+- [第18章 LocaleResolver][5]
+- [第19章 ThemeResolver][6]
+- [第20章 FlashMapManager][7]
+- [第21章 总结][8]
+- [第22章 异步请求][9]
 
 
   [1]: https://github.com/sixtrees/kantouspringmvc/blob/master/%E7%AC%AC14%E7%AB%A0%20ViewResolver.md
